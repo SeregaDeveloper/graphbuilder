@@ -12,6 +12,6 @@ Requirements:
 - Matplotlib
 - Networkx 
 
-Usage: TrafGraph.py [dump.csv]
+Usage: TrafGraph.py [dump.csv (or .pcapng)]
 
 ![Image alt](https://github.com/SeregaDeveloper/PythonPCAPGraphBuilder/blob/master/graph.png)

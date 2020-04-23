@@ -20,3 +20,7 @@ Example:
 
 
 ![Image alt](https://github.com/SeregaDeveloper/PythonPCAPGraphBuilder/blob/master/graph.png)
+
+
+
+Notice: the developer does not provide any guarantees, this software is intended for use only for research purposes.

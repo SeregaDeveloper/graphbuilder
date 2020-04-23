@@ -6,7 +6,7 @@ Work in progess.
 Requirements:
 
 - OS Linux (Debian)
-- Python 3.7+ Interpreter
+- Python 3.7+ interpreter
 - Pip packet manager 
 - Pandas
 - Matplotlib

@@ -24,3 +24,5 @@ Example:
 
 
 Notice: the developer does not provide any guarantees, this software is intended for use only for research purposes.
+
+Have any questions? My contact: serega_cruser@mail.ru

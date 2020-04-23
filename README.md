@@ -1,6 +1,7 @@
 # PythonPCAPGraphBuilder
 A program for constructing a graph that shows the intensity of the exchange between the hosts on the network based on .pcap or .csv dump
 
+"Your network resources - but clearly"
 Work in progess.
 #
 Requirements:

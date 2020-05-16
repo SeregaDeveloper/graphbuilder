@@ -21,7 +21,7 @@ Usage: TrafGraph.py [dump.csv (or .pcapng / .pcap)]
 Example:
 
 
-![Image alt](https://github.com/SeregaDeveloper/PythonPCAPGraphBuilder/blob/master/graph.png)
+![Image alt](https://github.com/SeregaDeveloper/PythonPCAPGraphBuilder/blob/master/src/graph.png)
 
 
 #

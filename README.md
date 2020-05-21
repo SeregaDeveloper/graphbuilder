@@ -22,7 +22,8 @@ Notice:
 UPDATE:
 Now you can deploy this application with Docker. Read the Docker documentation to learn how to do it. https://docs.docker.com/
 
-Notice: 
+Notice:
+
 -Dockerfile need some fix, work in progress
 #
 Usage: TrafGraph.py [dump.csv (or .pcapng / .pcap)]

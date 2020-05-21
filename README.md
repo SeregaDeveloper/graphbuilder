@@ -15,7 +15,9 @@ Requirements:
 - Matplotlib
 - Networkx 
 
-Notice: If you already have Python 3.7+ interpreter, you can use  "dependences/Install_packages.sh" script to install other dependences. 
+Notice: 
+-If you already have Python 3.7+ interpreter, you can use  "dependences/Install_packages.sh" script to install other dependences. 
+-Dockerfile need some fix, work in progress
 
 UPDATE:
 Now you can deploy this application with Docker. Read the Docker documentation to learn how to do it. https://docs.docker.com/

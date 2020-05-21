@@ -19,6 +19,8 @@ Notice:
 
 -If you already have Python 3.7+ interpreter, you can use  "dependences/Install_packages.sh" script to install other dependences. 
 
+#
+
 UPDATE:
 Now you can deploy this application with Docker. Read the Docker documentation to learn how to do it. https://docs.docker.com/
 

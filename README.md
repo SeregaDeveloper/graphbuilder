@@ -17,7 +17,7 @@ Requirements:
 
 Notice: 
 
--If you already have Python 3.7+ interpreter, you can use  "dependences/Install_packages.sh" script to install other dependences. 
+If you already have Python 3.7+ interpreter, you can use  "dependences/Install_packages.sh" script to install other dependences. 
 
 #
 

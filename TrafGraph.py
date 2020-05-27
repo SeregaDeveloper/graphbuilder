@@ -12,7 +12,6 @@ def File_Loader(filename ="nope"):
     try:
         file = pand.read_csv(filename,sep=',')
     except:
-        # сделать очистку трафика
         print("This file does not exist! \n")
     return file
 #---------------------------------------------------------
@@ -73,8 +72,9 @@ def Draw_Graph():
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_color='r')
     plt.gcf().set_size_inches(21, 21)
     plt.axis('off')
-    plt.savefig("graph.png")
-    print(" Check your graph in 'graph.png' ")
+    plt.savefig(f"{filename}.png")
+    print(f"Check your graph in '{filename}.png' ")
+    users = []
     return 0
 #---------------------------------------------------------
 if __name__ == "__main__":

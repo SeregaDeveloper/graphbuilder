@@ -34,6 +34,7 @@ Example:
 ![Image alt](https://github.com/SeregaDeveloper/PythonPCAPGraphBuilder/blob/master/src/graph.png)
 
 
+You can see more examples in /src folder.
 #
 Notice: the developer does not provide any guarantees, this software is intended for use only for research purposes.
 #
